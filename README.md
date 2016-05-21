@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Trying to learn Python
